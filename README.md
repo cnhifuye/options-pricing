@@ -1,7 +1,3 @@
-<img width="1050" height="675" alt="american_vs_european_put" src="https://github.com/user-attachments/assets/39453b69-30dd-428f-b7df-69f8e46f9bab" />
-<img width="1050" height="675" alt="mc_standard_error" src="https://github.com/user-attachments/assets/4b297359-f05e-4523-96c1-0726a7cb4138" />
-<img width="1050" height="675" alt="binomial_convergence" src="https://github.com/user-attachments/assets/dae32a82-2334-4ffe-9e03-321281e6c338" />
-
 [README.md](https://github.com/user-attachments/files/34855773/README.md)
 # Options Pricing: Black-Scholes, Monte Carlo & Binomial Trees
 
@@ -75,13 +71,9 @@ Key findings:
 - **American put premium**: 6.0896 vs 5.5735 for the European put, an early-exercise premium of about 0.516.
 - **Greeks**: analytical values match central finite differences to better than 1e-6.
 
-<p align="center">
-  <img src="docs/images/mc_standard_error.png" width="48%" alt="Monte Carlo standard error">
-  <img src="docs/images/binomial_convergence.png" width="48%" alt="Binomial tree convergence">
-</p>
-<p align="center">
-  <img src="docs/images/american_vs_european_put.png" width="48%" alt="American vs European put">
-</p>
+<img width="1050" height="675" alt="american_vs_european_put" src="https://github.com/user-attachments/assets/39453b69-30dd-428f-b7df-69f8e46f9bab" />
+<img width="1050" height="675" alt="mc_standard_error" src="https://github.com/user-attachments/assets/4b297359-f05e-4523-96c1-0726a7cb4138" />
+<img width="1050" height="675" alt="binomial_convergence" src="https://github.com/user-attachments/assets/dae32a82-2334-4ffe-9e03-321281e6c338" />
 
 ## Project structure
 

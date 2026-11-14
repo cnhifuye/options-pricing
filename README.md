@@ -1,3 +1,7 @@
+<img width="1050" height="675" alt="american_vs_european_put" src="https://github.com/user-attachments/assets/39453b69-30dd-428f-b7df-69f8e46f9bab" />
+<img width="1050" height="675" alt="mc_standard_error" src="https://github.com/user-attachments/assets/4b297359-f05e-4523-96c1-0726a7cb4138" />
+<img width="1050" height="675" alt="binomial_convergence" src="https://github.com/user-attachments/assets/dae32a82-2334-4ffe-9e03-321281e6c338" />
+
 [README.md](https://github.com/user-attachments/files/34855773/README.md)
 # Options Pricing: Black-Scholes, Monte Carlo & Binomial Trees
 

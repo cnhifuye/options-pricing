@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34855773/README.md)
 # Options Pricing: Black-Scholes, Monte Carlo & Binomial Trees
 
-[![CI](https://github.com/<your-username>/options-pricing/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/options-pricing/actions)
+[![CI](https://github.com/<mmmomo>/options-pricing/actions/workflows/ci.yml/badge.svg)](https://github.com/<mmmomo>/options-pricing/actions)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,7 +19,7 @@ The accompanying notebook [`notebooks/options_pricing.ipynb`](notebooks/options_
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/options-pricing.git
+git clone https://github.com/<mmmomo>/options-pricing.git
 cd options-pricing
 pip install -e .            # library only
 pip install -e ".[dev]"     # + pytest, matplotlib, pandas, jupyter
